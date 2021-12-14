@@ -7,6 +7,7 @@ public class aa {
     public static void main(String[] args) {
         System.out.println("hello jenkins");
         System.out.println("day");
+        System.out.println("minute");
 
     }
 }
