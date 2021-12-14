@@ -9,5 +9,6 @@ public class aa {
         System.out.println("drag");
         int a = 10;
         a = 20;
+        int b = 30;
     }
 }
