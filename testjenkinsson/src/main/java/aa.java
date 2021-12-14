@@ -9,5 +9,6 @@ public class aa {
         System.out.println("day");
         System.out.println("watermelon");
         System.out.println("xigua");
+        System.out.println("gtxh");
     }
 }
