@@ -8,5 +8,6 @@ public class aa {
         System.out.println("hello jenkins");
         System.out.println("day");
         System.out.println("pass");
+        System.out.println("aomen");
     }
 }
