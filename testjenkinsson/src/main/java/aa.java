@@ -8,6 +8,6 @@ public class aa {
         System.out.println("hello jenkins");
         System.out.println("day");
         System.out.println("minute");
-
+        System.out.println("seconds");
     }
 }
