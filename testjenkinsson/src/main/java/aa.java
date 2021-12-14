@@ -8,6 +8,6 @@ public class aa {
         System.out.println("hello jenkins");
         System.out.println("drag");
         int a = 10;
-
+        a = 20;
     }
 }
