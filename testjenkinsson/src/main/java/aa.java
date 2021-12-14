@@ -10,5 +10,6 @@ public class aa {
         int a = 10;
         a = 20;
         int b = 30;
+        b += 1;
     }
 }
