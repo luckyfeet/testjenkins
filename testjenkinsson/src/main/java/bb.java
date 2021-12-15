@@ -8,5 +8,6 @@ public class bb {
         System.out.println("a");
         System.out.println(" ");
         System.out.println("b");
+        System.out.println("c");
     }
 }
