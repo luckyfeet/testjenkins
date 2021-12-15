@@ -8,5 +8,6 @@ public class cc {
         System.out.println("mov");
         System.out.println("w");
         System.out.println("ham");
+        System.out.println("burger");
     }
 }
