@@ -5,7 +5,6 @@
  */
 public class cc {
     public static void main(String[] args) {
-        System.out.println("super");
-        System.out.println("fole");
+        System.out.println("alpha");
     }
 }
