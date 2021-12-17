@@ -8,8 +8,6 @@ public class cc {
         System.out.println("mov");
         System.out.println("hip");
         System.out.println("hop");
-        System.out.println("see");
-        System.out.println("jenkins");
-        System.out.println("test");
+        System.out.println("testjenkins");
     }
 }
