@@ -9,6 +9,6 @@ public class cc {
         System.out.println("hip");
         System.out.println("hop");
         System.out.println("why");
-        System.out.println("hotpot");
+        System.out.println("tom");
     }
 }
